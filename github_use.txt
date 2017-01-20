@@ -14,5 +14,5 @@ git commit -m "first commit"      //write something about that file
 git remote add origin https://github.com/mahadeee/project.git          //tell terminal your github link , if new repository then get link from git clone/download button 
 git push -u origin master                                            //upload the file u edited in laptop that file u are adding in upper add comand
 give username:mahadeee
-give passwd:mahadeeeian11
+give passwd:ur favourate pass with 11
 
